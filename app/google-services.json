@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "349680018477",
+    "project_id": "fihgram",
+    "storage_bucket": "fihgram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349680018477:android:0f2c322f777dbf5e5904a4",
+        "android_client_info": {
+          "package_name": "com.example.fihgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349680018477-765a3b66edd0p9pls66mc7cu39u8b830.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fihgram",
+            "certificate_hash": "98e1adb7821501ccf6c977b12bbcbe3767a63e81"
+          }
+        },
+        {
+          "client_id": "349680018477-atlk3h2enupekbd2q745q7u3fnch0seb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmI5dtA4PTEvJziC_SgOhDRcTuL0AheaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349680018477-atlk3h2enupekbd2q745q7u3fnch0seb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
